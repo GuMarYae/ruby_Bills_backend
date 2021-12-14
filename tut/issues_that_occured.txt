@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/4574176/heroku-push-rejected-failed-to-install-gems-via-bundler
