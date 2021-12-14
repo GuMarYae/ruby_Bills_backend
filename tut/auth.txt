@@ -1,0 +1,15 @@
+best way to install ruby 
+    https://www.youtube.com/watch?v=Qn-1egqgsnM&t=768s
+A.M CODER 
+    https://tuts.alexmercedcoder.com/2020/ruby-tut/
+
+
+thunder cl
+
+{
+    "username": "test",
+    "password": "test"
+}
+   authorization bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxfQ.oT7kSePnYs7eVIsRIzIi0UEC7XBclsrO3qrnXwic8Zg
+
+                        eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxfQ.oT7kSePnYs7eVIsRIzIi0UEC7XBclsrO3qrnXwic8Zg
