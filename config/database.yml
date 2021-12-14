@@ -95,6 +95,6 @@ test:
 #
 production:
   <<: *default
-  url: <%= ENV['MY_APP_DATABASE_URL'] %>
+  url: <%= ENV['DATABASE_URL'] %>
 
   # password: <%= ENV['BACKEND_DATABASE_PASSWORD'] %>
